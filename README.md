@@ -1,4 +1,4 @@
-## Course Planner & GPA Calculator
+# SFA Course Planner & GPA Calculator
 
 A Java-based desktop application for managing courses and calculating cumulative GPA based on the Stephen F. Austin (SFA) grading scale.
 
